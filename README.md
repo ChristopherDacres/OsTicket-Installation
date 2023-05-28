@@ -9,19 +9,20 @@ In this tutorial we will be going through the full installation for osTicket and
 
 - Microsoft Azure (Virtual Machines)
 - Remote Desktop
+- Internet Information Services (IIS)
+- MySQL
 
 <h2>Operating Systems Used </h2>
 
 - Windows 10</b> (21H2)
 
-<h2>Dowloading OsTicket Installation Files </h2>
+<h2>Dowloading Installation Files </h2>
 
-- Select the Installation Files Dropdown (Please note this is to be download in the Virtual Machine)
-- Select Download 
+- Copy and Paste the URL into Microsoft Edge on the Virtual Machine (Please note this is to be download in the Virtual Machine)
 
-<img src="https://i.imgur.com/TpUetgc.png"/>
+<img src="https://i.imgur.com/GrH9Yg5.png"/>
 
-<b> Select Create <b/>
+- Download/Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">INSTALLATION FILES</a> 
 
 <img src="https://i.imgur.com/rztZV56.png"/>
   
