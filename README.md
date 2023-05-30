@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-In this tutorial we will be going through the full installation for osTicket and the prerequisites required to meet installation. We will install osTicket on an Microsoft Azure VM (Virtual Machine). We will need to have a Virtual Machine setup and accessed using Remote Desktop. Refer to this link <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">INSTALLATION FILES!</a>
+In this tutorial we will be going through the full installation for osTicket and the prerequisites required to meet installation. We will install osTicket on an Microsoft Azure VM (Virtual Machine). We will need to have a Virtual Machine setup and accessed using Remote Desktop. Refer to this link <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6" Installation Files</a>
 
 <h2>Environments and Technologies Used</h2>
 
