@@ -28,9 +28,9 @@ from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZ
 <img src="https://i.imgur.com/rztZV56.png"/>
   
   
-  <b> Name Resource Group and Select a Region </b>
+  <b> Next Download/Install <a href="https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link"> Rewrite Module</a> from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>
   
-  <img src="https://i.imgur.com/xVhoblW.png"/>
+  <img src="https://i.imgur.com/tQw3mny.png"/>
   
   <b> Once Validation Passed, Select Create </b>
   
