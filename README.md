@@ -22,7 +22,8 @@ In this tutorial we will be going through the full installation for osTicket and
 
 <img src="https://i.imgur.com/GrH9Yg5.png"/>
 
-- Download/Install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">INSTALLATION FILES</a> 
+- Download/Install <a href="https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link">PHP Manager for IIS</a>
+from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a> 
 
 <img src="https://i.imgur.com/rztZV56.png"/>
   
