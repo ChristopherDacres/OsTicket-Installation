@@ -22,11 +22,30 @@ In this tutorial we will be going through the full installation for osTicket and
 
 <img src="https://i.imgur.com/GrH9Yg5.png"/>
 
-- Download/Install <a href="https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link">PHP Manager for IIS</a>
+<h2>Install / Enable IIS in Windows WITH CGI and Common HTTP Features</h2>
+
+- Go to Control Panel
+- Programs 
+- Turn Windows Features On or OFF
+- Click and Expand Internet Information Services
+- Click and expand Web Managment Tools
+- Check IIS Managment Console
+- Click and expand World Wide Web Services
+- Click and expand Application Development Features
+- Check CGI
+- Select OK
+- Select Close
+
+<img src="https://i.imgur.com/M4F1qyF.png"/>
+<img src="https://i.imgur.com/D0DWhVX.png"/>
+<img src="https://i.imgur.com/GoKJ7va.png"/>
+<img src="https://i.imgur.com/s736uW3.png"/>
+<img src="https://i.imgur.com/IbsqWbu.png"/>
+
+- Next Download/Install <a href="https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link">PHP Manager for IIS</a>
 from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a> 
 
  <img src="https://i.imgur.com/i2O5lya.png"/>
-  
   
   <b> Next Download/Install <a href="https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link"> Rewrite Module</a> from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>
   
