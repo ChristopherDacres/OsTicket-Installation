@@ -87,20 +87,12 @@ from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZ
 - Standard Configuration
 - Password1
     
-    
-    
     <img src="https://i.imgur.com/bXAKRqe.png"/>
-    
     <img src="https://i.imgur.com/01bmt4W.png"/>
-    
     <img src="https://i.imgur.com/FCA7a8q.png"/>
-    
     <img src="https://i.imgur.com/qOtqyCW.png"/>
-    
     <img src="https://i.imgur.com/pUul3IO.png"/>
-    
-    <img src="https://i.imgur.com/8ISMYA3.png"/>
-    
+    <img src="https://i.imgur.com/rvVZ5aU.png"/>
     <img src="https://i.imgur.com/Ut3NkFE.png"/>
 
  
