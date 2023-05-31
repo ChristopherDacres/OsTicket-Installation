@@ -22,7 +22,7 @@ In this tutorial we will be going through the full installation for osTicket and
 
 <img src="https://i.imgur.com/GrH9Yg5.png"/>
 
-<h2>Install / Enable IIS in Windows WITH CGI and Common HTTP Features</h2>
+<h2>Install/Enable IIS in Windows WITH CGI and Common HTTP Features</h2>
 
 - Go to Control Panel
 - Programs 
@@ -42,6 +42,7 @@ In this tutorial we will be going through the full installation for osTicket and
 <img src="https://i.imgur.com/s736uW3.png"/>
 <img src="https://i.imgur.com/IbsqWbu.png"/>
 
+
 - Next Download/Install <a href="https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link">PHP Manager for IIS</a>
 from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a> 
 
@@ -50,5 +51,18 @@ from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZ
   <b> Next Download/Install <a href="https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view?usp=share_link"> Rewrite Module</a> from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>
   
   <img src="https://i.imgur.com/tQw3mny.png"/>
+ 
+ <h2>Create the directory C:\PHP</h2>
+ 
+ - Open File Explorer
+ - This PC
+ - Windows (C:) Drive
+ - Right Click to add NEW FOLDER
+ - Name it "PHP"
   
+ <img src="https://i.imgur.com/tV5tJIa.png"/>
+ <img src="https://i.imgur.com/kwU3xAt.png"/>
+ 
+ From the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>, download <a href="https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link"> PHP 7.3.8 and unzip the contents into C:\PHP
+
   
