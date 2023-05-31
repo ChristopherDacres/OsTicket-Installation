@@ -43,8 +43,8 @@ In this tutorial we will be going through the full installation for osTicket and
 <img src="https://i.imgur.com/IbsqWbu.png"/>
 
 
-- Next Download/Install <a href="https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link">PHP Manager for IIS</a>
-from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a> 
+Download/Install <a href="https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view?usp=share_link">PHP Manager for IIS</a>
+from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>
 
  <img src="https://i.imgur.com/i2O5lya.png"/>
   
@@ -63,6 +63,50 @@ from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZ
  <img src="https://i.imgur.com/tV5tJIa.png"/>
  <img src="https://i.imgur.com/kwU3xAt.png"/>
  
- From the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>, download <a href="https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link"> PHP 7.3.8 and unzip the contents into C:\PHP
+ <h2>Next From the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>, download <a href="https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link"> PHP 7.3.8</a> and unzip the contents into C:\PHP </h2>
+ 
+ - Right Click to EXTRACT ALL
+ - Click Browse
+ - This PC
+ - Windows (C:)
+ - Click PHP
+ - Select EXTRACT
+ 
+ <img src="https://i.imgur.com/HIH8uce.png"/>
+ <img src="https://i.imgur.com/M2f9mZa.png"/>
+ <img src="https://i.imgur.com/Mq8nOkb.png"/>
+ 
+ Next From the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a> Download/Install <a href="https://drive.google.com/file/d/1s1OsGF3-ioO0_9LYizPRiVuIkb3lFJgH/view?usp=share_link"> VC_redist.x86.exe
+ 
+ <img src="https://i.imgur.com/uS4vYKn.png"/>
+ 
+   <h2>Next From the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a> Download/Install <a href="https://drive.google.com/file/d/1_OWh9p7VQLcrB0q_V7qT8yHl0xo5gv7z/view?usp=share_link"> MySQL 5.5.62 </h2>
+    
+- Typical Setup
+- Launch Configuration Wizard (after install)
+- Standard Configuration
+- Password1
+    
+    
+    
+    <img src="https://i.imgur.com/bXAKRqe.png"/>
+    
+    <img src="https://i.imgur.com/01bmt4W.png"/>
+    
+    <img src="https://i.imgur.com/FCA7a8q.png"/>
+    
+    <img src="https://i.imgur.com/qOtqyCW.png"/>
+    
+    <img src="https://i.imgur.com/pUul3IO.png"/>
+    
+    <img src="https://i.imgur.com/8ISMYA3.png"/>
+    
+    <img src="https://i.imgur.com/Ut3NkFE.png"/>
+
+ 
+ 
+ 
+ 
+ 
 
   
