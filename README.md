@@ -160,14 +160,28 @@ from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZ
      <img src="https://i.imgur.com/CbEqO81.png"/>
      <img src="https://i.imgur.com/yjbrRwx.png"/>
      
-     <h2>Next From the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>, Download/Install <a href="https://docs.google.com/document/d/1WovrX2DaS9xkfaSr4LXyB4YnnWpXIgPCMMbbfgHmGVw/edit">HeidiSQL</a><h/2>
+     <h2>Next From the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>, Download/Install <a href="https://docs.google.com/document/d/1WovrX2DaS9xkfaSr4LXyB4YnnWpXIgPCMMbbfgHmGVw/edit">HeidiSQL</a></h2>
       
 - Open Heidi SQL
 - Create a new session, root/Password1
 - Connect to the session
 - Create a database called “osTicket"
       
-      <img src="https://i.imgur.com/J2H2V5Q.png"/>
+     <img src="https://i.imgur.com/TN9TZhg.png"/>
+     <img src="https://i.imgur.com/t7bXpE4.png"/>
+     <img src="https://i.imgur.com/OWJUPae.png"/>
+     <img src="https://i.imgur.com/uciCM60.png"/>
+      
+     
+     <h2>Congratulations</h2>
+
+ - Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+      
+      
+     <img src="https://i.imgur.com/YC7s3aC.png"/>
+     <img src="https://i.imgur.com/OpRTL5k.png"/>
+     <img src="https://i.imgur.com/J2H2V5Q.png"/>
+      
 
       
       
