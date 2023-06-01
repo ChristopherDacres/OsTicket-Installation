@@ -63,7 +63,7 @@ from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZ
  <img src="https://i.imgur.com/tV5tJIa.png"/>
  <img src="https://i.imgur.com/kwU3xAt.png"/>
  
- <h2>Next From the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>, download <a href="https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link"> PHP 7.3.8</a> and unzip the contents into C:\PHP </h2>
+ <h2>Next From the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>, Download/Install <a href="https://drive.google.com/file/d/1snNMtLdCOpMtkCyD4mvl9yOOmvVIp9fP/view?usp=share_link"> PHP 7.3.8</a> and unzip the contents into C:\PHP </h2>
  
  - Right Click to EXTRACT ALL
  - Click Browse
@@ -113,6 +113,39 @@ from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZ
     <img src="https://i.imgur.com/2oY1hkZ.png"/>
     <img src="https://i.imgur.com/jh1lkQi.png"/>
     <img src="https://i.imgur.com/9PFiixZ.png"/>
+    
+    <h2>Next From the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>, Download/Install <a href="https://drive.google.com/file/d/1VeVXKlzHDRjeaVUL99ptq7qYbrbXdFxJ/view?usp=drive_link">osTicket</a>
+
+- Extract and copy “upload” folder to c:\inetpub\wwwroot
+- Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”
+     
+     <img src="https://i.imgur.com/R1ey3p7.png"/>
+     <img src="https://i.imgur.com/4zednt0.png"/>
+     
+     <h2>Reload IIS (Open IIS, Stop and Start the server)</h2>
+     
+- Go to Sites
+- Default
+- osTicket
+- On the right, click “Browse *:80”
+
+     
+     <img src="https://i.imgur.com/M8tRnEI.png"/>
+     
+     <h2> Note that some extensions are not Enabled </h2>
+     
+- Go back to IIS, sites -> Default -> osTicket
+- Double-click PHP Manager
+- Click “Enable or disable an extension”
+- Enable: php_imap.dll
+- Enable: php_intl.dll
+- Enable: php_opcache.dll
+- Refresh the osTicket site in your browse, observe the changes
+
+     <img src="https://i.imgur.com/CNiCtVy.png"/>
+     <img src="https://i.imgur.com/vRKpqtT.png"/>
+
+      
     
     
 
