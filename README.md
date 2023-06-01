@@ -181,6 +181,8 @@ from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZ
      <img src="https://i.imgur.com/YC7s3aC.png"/>
      <img src="https://i.imgur.com/OpRTL5k.png"/>
      <img src="https://i.imgur.com/J2H2V5Q.png"/>
+     
+     This will conclude the osTicket Installation
       
 
       
