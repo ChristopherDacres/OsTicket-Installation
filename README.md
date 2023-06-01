@@ -131,6 +131,7 @@ from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZ
 
      
      <img src="https://i.imgur.com/M8tRnEI.png"/>
+     <img src="https://i.imgur.com/CNiCtVy.png"/>
      
      <h2> Note that some extensions are not Enabled </h2>
      
@@ -141,9 +142,36 @@ from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZ
 - Enable: php_intl.dll
 - Enable: php_opcache.dll
 - Refresh the osTicket site in your browse, observe the changes
-
-     <img src="https://i.imgur.com/CNiCtVy.png"/>
+     
+     <img src="https://i.imgur.com/pZYn03d.png"/>
+     <img src="https://i.imgur.com/41fEdOQ.png"/>
      <img src="https://i.imgur.com/vRKpqtT.png"/>
+ 
+     <h2>Rename: ost-config.php</h2>
+
+- From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+- To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+- Assign Permissions: ost-config.php
+- Disable inheritance -> Remove All
+- New Permissions -> Everyone -> All
+
+     
+     <img src="https://i.imgur.com/vEuPwb5.png"/>
+     <img src="https://i.imgur.com/CbEqO81.png"/>
+     <img src="https://i.imgur.com/yjbrRwx.png"/>
+     
+     <h2>Next From the <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>, Download/Install <a href="https://docs.google.com/document/d/1WovrX2DaS9xkfaSr4LXyB4YnnWpXIgPCMMbbfgHmGVw/edit">HeidiSQL</a><h/2>
+      
+- Open Heidi SQL
+- Create a new session, root/Password1
+- Connect to the session
+- Create a database called “osTicket"
+      
+      <img src="https://i.imgur.com/J2H2V5Q.png"/>
+
+      
+      
+    
 
       
     
