@@ -85,7 +85,8 @@ from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZ
 - Typical Setup
 - Launch Configuration Wizard (after install)
 - Standard Configuration
-- Password1
+- Username: ROOT
+- Password: Password1
     
     <img src="https://i.imgur.com/bXAKRqe.png"/>
     <img src="https://i.imgur.com/01bmt4W.png"/>
@@ -94,6 +95,27 @@ from <a href="https://drive.google.com/drive/u/2/folders/1APMfNyfNzcxZC6EzdaNfdZ
     <img src="https://i.imgur.com/pUul3IO.png"/>
     <img src="https://i.imgur.com/rvVZ5aU.png"/>
     <img src="https://i.imgur.com/Ut3NkFE.png"/>
+    
+    <h2>Open IIS as an Admin</h2>
+    
+    - Type IIS in start menu
+    - Click on Run as Adminstrator
+    - Select PHP Manager
+    - Select Register new PHP Version
+    - Click Browse
+    - Select PHP CGI (make sure PHP executable)
+    - Select OK
+    - Click Restart 
+    
+    <img src="https://i.imgur.com/Zg3cfkQ.png"/>
+    <img src="https://i.imgur.com/q7mADKh.png"/>
+    <img src="https://i.imgur.com/DJu6bOZ.png"/>
+    <img src="https://i.imgur.com/2oY1hkZ.png"/>
+    <img src="https://i.imgur.com/jh1lkQi.png"/>
+    <img src="https://i.imgur.com/9PFiixZ.png"/>
+    
+    
+
 
  
  
